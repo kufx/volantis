@@ -58,7 +58,7 @@
 
   <url>
     <loc>https://blog.kuhehe.top/</loc>
-    <lastmod>2023-10-02</lastmod>
+    <lastmod>2023-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,14 +66,14 @@
   
   <url>
     <loc>https://blog.kuhehe.top/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2023-10-02</lastmod>
+    <lastmod>2023-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.kuhehe.top/tags/%E5%BD%B1%E8%A7%86%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2023-10-02</lastmod>
+    <lastmod>2023-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -82,14 +82,14 @@
   
   <url>
     <loc>https://blog.kuhehe.top/categories/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2023-10-02</lastmod>
+    <lastmod>2023-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.kuhehe.top/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/</loc>
-    <lastmod>2023-10-02</lastmod>
+    <lastmod>2023-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
